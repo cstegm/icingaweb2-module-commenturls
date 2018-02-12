@@ -1,0 +1,4 @@
+Module: commenturls
+Version: 1.0.0
+Description: CommentURl Hook
+ Detects URLS in comments and transforms them into links
