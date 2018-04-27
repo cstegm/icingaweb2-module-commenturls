@@ -1,3 +1,3 @@
 # icingaweb2-module-commenturls
 
-This module trasforms any URL to a clickable html Link.
+This module trasforms any URL in a comment to a clickable html Link.
